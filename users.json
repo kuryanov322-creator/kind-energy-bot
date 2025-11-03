@@ -1,0 +1,74 @@
+{
+  "6924892544": {
+    "day": 1,
+    "stage": "d1_morning_wait",
+    "survey": "Хочу стать спокойнее",
+    "last_mood": "😊 Спокойствие",
+    "reminder_set": true,
+    "focus": "energy",
+    "gender": "male",
+    "last_answer": "Я бы мог просыпаться по-раньше",
+    "progress": {
+      "sleep": 1,
+      "nutrition": 0,
+      "energy": 0,
+      "mindfulness": 0
+    },
+    "awaiting": null,
+    "last_morning_answer": "",
+    "reminders_set": true,
+    "completed": false,
+    "profile": {
+      "sleep": "Сложно заснуть",
+      "energy": "Иногда падает",
+      "attitude": "Мог(ла) бы внимательнее"
+    },
+    "last_midday_done": false,
+    "streak_count": 0,
+    "last_interaction_date": null,
+    "nudges_enabled": true,
+    "menu_state": "practices"
+  },
+  "276644262": {
+    "day": 1,
+    "stage": "d1_evening_wait",
+    "survey": "Всё ок, хочу осознанности",
+    "last_mood": "😊 Спокойствие",
+    "reminder_set": true,
+    "gender": "female",
+    "focus": "energy",
+    "progress": {
+      "sleep": 0,
+      "nutrition": 0,
+      "energy": 0,
+      "mindfulness": 0
+    },
+    "awaiting": null,
+    "last_morning_answer": "",
+    "reminders_set": true,
+    "completed": false
+  },
+  "1163871698": {
+    "gender": "male",
+    "profile": {
+      "sleep": "Сплю хорошо",
+      "energy": "Почти всегда усталость",
+      "attitude": "Мог(ла) бы внимательнее"
+    },
+    "focus": "sleep",
+    "day": 1,
+    "completed": false,
+    "progress": {
+      "sleep": 0,
+      "nutrition": 0,
+      "energy": 0,
+      "mindfulness": 0
+    },
+    "awaiting": null,
+    "last_morning_answer": "",
+    "streak_count": 0,
+    "last_interaction_date": null,
+    "nudges_enabled": true,
+    "menu_state": "main"
+  }
+}
